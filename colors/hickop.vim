@@ -1,5 +1,5 @@
 " File: hickop.vim
-" Version: 1.1
+" Version: 1.2
 " Author: hickop <hickop@gmail.com>
 " Description: simple dark colorscheme for vim and gvim
 
@@ -47,7 +47,7 @@ endif
 exe "hi Normal"      .s:v.'fg='.s:whi.s:v.'bg='.s:bla
 
 exe "hi NonText"     .s:v.'fg='.s:gr1                .s:v.'=NONE'
-exe "hi ErrorMsg"                    .s:v.'bg='.s:red
+exe "hi ErrorMsg"    .s:v.'fg='.s:red.s:v.'bg=bg'
 exe "hi IncSearch"   .s:v.'fg=bg'    .s:v.'bg=fg'    .s:v.'=NONE'
 exe "hi Search"      .s:v.'fg=bg'    .s:v.'bg='.s:bro
 exe "hi MoreMsg"     .s:v.'fg=fg'                    .s:v.'=NONE'
