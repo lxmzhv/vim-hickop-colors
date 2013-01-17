@@ -18,4 +18,4 @@ Previews
 --------
 
 - hickop.vim:
-![hickop.vim](https://raw.github.com/hickop/dotfiles/master/img/hickop_colorscheme.png)
+![hickop.vim](https://raw.github.com/hickop/dotfiles/master/images/hickop_colorscheme.png)
