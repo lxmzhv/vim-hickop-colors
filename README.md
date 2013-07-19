@@ -1,6 +1,7 @@
 # Vim hickop colors
 
-Dedicated repository for my vim colorschemes.
+This is an 'easy to the eyes' colorscheme with only essentials highlights.
+Made it so the colors are the same in vim and gvim without any trick. 
 
 Installation
 ------------
@@ -14,8 +15,7 @@ Traditionnal method:
 
 Copy colorschemes you want from colors directory to your ~/.vim/colors/
 
-Previews
---------
+Preview
+-------
 
-- hickop.vim:
-![hickop.vim](https://raw.github.com/hickop/dotfiles/master/images/hickop_colorscheme.png)
+![hickop.vim](https://raw.github.com/hickop/vim-hickop-colors/master/hickop_colorscheme.png)
