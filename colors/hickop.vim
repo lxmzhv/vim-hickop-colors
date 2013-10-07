@@ -13,6 +13,10 @@ endif
 
 let g:colors_name="hickop"
 
+if !has('gui_running')
+  set t_Co=256
+end
+
 "colors{{{
 if has("gui_running")
     let s:v=" gui"
